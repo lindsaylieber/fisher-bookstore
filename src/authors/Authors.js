@@ -1,11 +1,11 @@
 import React from "react";
-import "./Books.css";
+import "./Authors.css";
 
-export default function Books() {
+export default function Authors() {
     return (
-        <div className="Book">
+        <div className="Author">
             <div className="lander">
-                <h1>Books</h1>
+                <h1>Authors</h1>
                 <p>Welcome to Fisher Bookstore.</p>
             </div>
         </div>
