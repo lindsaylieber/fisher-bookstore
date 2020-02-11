@@ -8,8 +8,8 @@ export default function Routes() {
     return (
         <Switch>
             <Route path="/" exact component={Home} />
-            <Route path="/" exact component={Books} />
-            <Route path="/" exact component={Authors} />
+            <Route path="/books" exact component={Books} />
+            <Route path="/authors" exact component={Authors} />
         </Switch>
     );
 }
