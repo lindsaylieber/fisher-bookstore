@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./Books.css";
-import { CardTitle } from "react-bootstrap/Card";
+//import { CardTitle } from "react-bootstrap/Card";
 import { BookDisplay } from "./BookDisplay.js";
 
 export default class Books extends Component {
