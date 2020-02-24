@@ -9,27 +9,33 @@ export default class Authors extends Component {
             authors: [
                 {
                     id: 1,
-                    author: "Eric Evans",
+                    firstname: "Eric",
+                    lastname: "Evans",
                 },
                 {
                     id: 2,
-                    author: "Nicole Forsgren",
+                    firstname: "Nicole",
+                    lastname: "Forsgren",
                 },
                 {
                     id: 3,
-                    author: "Stephanie Meyer",
+                    firstname: "Stephanie",
+                    lastname: "Meyer",
                 },
                 {
                     id: 4,
-                    author: "Suzanne Collins",
+                    firstname: "Suzanne",
+                    lastname: "Collins",
                 },
                 {
                     id: 5,
-                    author: "JK Rowling",
+                    firstname: "JK",
+                    lastname: "Rowling",
                 },
                 {
                     id: 6,
-                    author: "F. Scott Fitzgerald",
+                    firstname: "Ernest",
+                    lastname: "Hemingway",
                 }
             ]
         };
