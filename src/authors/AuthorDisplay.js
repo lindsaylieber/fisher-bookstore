@@ -8,8 +8,7 @@ export function AuthorDisplay(props) {
             <table className="table table-striped table-bordered">
             <thead>
               <tr>
-                <th>Firstname</th>
-                <th>Lastname</th>
+                <th>Name</th>
               </tr>
             </thead>
             <tbody>            

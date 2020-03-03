@@ -3,8 +3,7 @@ import React from "react";
 export function AuthorRow(props) {
     return (
         <tr >
-            <td>{props.author.firstname}</td>
-            <td>{props.author.lastname}</td>
+            <td>{props.author.name}</td>
         </tr>
     );
 }
